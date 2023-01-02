@@ -1,3 +1,3 @@
 # git_flow
-VERSION:1.3
-Happy ever
+VERSION:1.4
+Happily ever after
